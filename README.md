@@ -11,6 +11,10 @@ The demo video showcases the platform's core functionality, including transactio
 
 ---
 
+## Screenshots
+<img width="1600" height="900" alt="BudgetWise_Collage_1600x900" src="https://github.com/user-attachments/assets/96f86feb-eb41-4e69-a001-93b0eb147b70" />
+
+
 ## 📖 Table of Contents
 
 1. [Executive Summary](https://www.google.com/search?q=%23-executive-summary)
